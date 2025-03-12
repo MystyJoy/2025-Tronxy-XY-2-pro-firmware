@@ -1,14 +1,6 @@
-## Applicable printers
-  - Support MCU: STM32F103Z
-  - Version: 2.18.0 
+My Tronxy XY-2 pro would shift in the y-layer as I would print. I tested and checked every mechanical aspect that would cause such an issue, but to no avail. So I assumed that the tronxy stock firmware somehow got corrupted (apperently this can 'just happen').
 
-  1|2|3|4|5|6
-  --------|--------|-------|-------|-------|-------
-  XY2-PRO|XY2_PRO_2E|XY3_PRO|XY3_PRO_V2
-  X5SA|X5SA_g|X5SA_PRO|X5SA_2E|X5SA400_PRO|X5SA400_2E
-  XY3SE|XY3SE_2E|XY3SE_V2
-  D01|D01_PLUS
-  C2|XY3_PROPB
+For some reason, tronxy
 
 
 ## How to compile
